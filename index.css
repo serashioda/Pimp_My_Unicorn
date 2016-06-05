@@ -1,6 +1,87 @@
-body {
-    color: white;
-  background_color: black;}
-    li {color: yellow;}
+header {
+  background-color: #bf00ff;
+}
 
-    li a {color: orange}
+header h1 {
+  font-family: 'Lobster', cursive;
+  text-align: center;
+  font-size: 50px;
+}
+body header {
+  font-family: 'Lobster', cursive;
+  text-align: center;
+  font-size: 30px;
+}
+
+.U {
+  color: #cc0000;
+}
+.n1 {
+  color: #ff6600;
+}
+.i {
+  color: #ffff00;
+}
+.c {
+  color: #99cc00;
+}
+.o {
+  color: #00cc99;
+}
+.r {
+  color: #0066ff;
+}
+.n2 {
+  color: #6600ff;
+}
+
+body {
+  background-color: #B4D8E7;
+}
+
+nav {
+  background-color: pink;
+  width: 125px;
+  height: 100%;
+  margin-left: -10px;
+  float: left;
+  font-family: 'Lobster', cursive;
+}
+
+li {
+  margin-top: 10px
+}
+
+section {
+  float: left;
+}
+
+section img {
+  height: 540px;
+  width: 960px:
+  float: left;
+  margin-left: 10%;
+}
+
+section h3 {
+  text-align: center;
+}
+
+#logo {
+  font-family: 'Lobster', cursive;
+  font-size: 36px;
+  text-align: center;
+}
+
+#gameDiv {
+  width: 512px;
+  height: 512px;
+  text-align: center;
+  border-style: solid;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+#gameCanvas {
+  display: inline;
+}

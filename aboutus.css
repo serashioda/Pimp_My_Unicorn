@@ -1,18 +1,19 @@
 body {
-    background-image: url("rainbow");
+   background-image: url("rainbow.png");
+   background-size: cover;
+   background-repeat: no-repeat;
+   font-family: 'Lobster', cursive;
+   background-color: 8721FF;
+ }
+ img {display: block;
+   margin: auto;
 
-    font-family: 'Lobster', cursive;
-    background-color: 8721FF;
-  }
-  img {display: block;
-    margin: auto;
-
-  }
+ }
 p {
-  padding: 5px;
-  text-align: center;
-  font-size: 30px;
+ padding: 5px;
+ text-align: center;
+ font-size: 30px;
 }
 h1 {
-  font-size: 50px;
+ font-size: 50px;
 }
